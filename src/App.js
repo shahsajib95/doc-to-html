@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { convertToRaw, convertFromRaw, EditorState, Editor } from "draft-js";
+import { EditorState, Editor } from "draft-js";
 import { convertToHTML, convertFromHTML } from "draft-convert";
 import {
   AiFillHtml5,
